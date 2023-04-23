@@ -128,11 +128,10 @@ In order to create YOLO annotation, this script will do the following image proc
 <b> 1 Resize image size</b><br>
  The bmp image size in the original dataset is 2560x1920 in pixel, which is too big to use 
 as the train and valid image dataset for our EfficientDet model. Therefore we have resized
-all images in x and y folders in those dataset to be 512x512.
-<br>  
+all images in x and y folders in those dataset to be 512x512.<br><br>
 <b> 2 Compute bounding boxes</b><br>
  We have computed the bounding boxes from the instance segmentations of the resized image in y folder 
-in train and valid dataset.<br>
+in train and valid dataset.<br><br>
 <b> 3 Create YOLO annotation</b><br>
  We have created YOLO annotation files from the bounding boxes.<br>
 <br>
