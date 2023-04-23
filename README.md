@@ -527,3 +527,11 @@ Vyshnav M T, Sowmya V, Gopalakrishnan E A, Sajith Variyar V V, Vijay Krishna Men
 https://www.researchgate.net/publication/346238471_Deep_Learning_Based_Approach_for_Multiple_Myeloma_Detection
 </pre>
 
+<b>3. Instance Segmentation of Multiple Myeloma Cells Using Deep-Wise Data Augmentation and Mask R-CNN</b><br>
+May Phu Paing, Adna Sento, Toan Huy Bui, and Chuchart Pintavirooj
+<br>
+<pre>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8774909/
+</pre>
+
+
