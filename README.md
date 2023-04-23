@@ -14,7 +14,8 @@ https://www.kaggle.com/datasets/sbilab/segpc2021dataset
 Citation:<br>
 
 <pre>
-Anubha Gupta, Ritu Gupta, Shiv Gehlot, Shubham Goswami, April 29, 2021, "SegPC-2021: Segmentation of Multiple Myeloma Plasma Cells in Microscopic Images", IEEE Dataport, doi: https://dx.doi.org/10.21227/7np1-2q42.
+Anubha Gupta, Ritu Gupta, Shiv Gehlot, Shubham Goswami, April 29, 2021, 
+"SegPC-2021: Segmentation of Multiple Myeloma Plasma Cells in Microscopic Images", IEEE Dataport, doi: https://dx.doi.org/10.21227/7np1-2q42.
 
 BibTex
 @data{segpc2021,
@@ -487,8 +488,10 @@ SegPC-2021: Segmentation of Multiple Myeloma Plasma Cells in Microscopic Images<
 https://www.kaggle.com/datasets/sbilab/segpc2021dataset
 </pre>
 Citation:<br>
+
 <pre>
-Anubha Gupta, Ritu Gupta, Shiv Gehlot, Shubham Goswami, April 29, 2021, "SegPC-2021: Segmentation of Multiple Myeloma Plasma Cells in Microscopic Images", IEEE Dataport, doi: https://dx.doi.org/10.21227/7np1-2q42.
+Anubha Gupta, Ritu Gupta, Shiv Gehlot, Shubham Goswami, April 29, 2021, 
+"SegPC-2021: Segmentation of Multiple Myeloma Plasma Cells in Microscopic Images", IEEE Dataport, doi: https://dx.doi.org/10.21227/7np1-2q42.
 
 BibTex
 @data{segpc2021,
@@ -500,7 +503,7 @@ title = {SegPC-2021: Segmentation of Multiple Myeloma Plasma Cells in Microscopi
 year = {2021} }
 
 IMPORTANT:
-If you use this dataset, please cite below publications-
+If you use this dataset, please cite below publications
 
 1. Anubha Gupta, Rahul Duggal, Shiv Gehlot, Ritu Gupta, Anvit Mangal, Lalit Kumar, Nisarg Thakkar, and Devprakash Satpathy, 
  "GCTI-SN: Geometry-Inspired Chemical and Tissue Invariant Stain Normalization of Microscopic Medical Images," 
