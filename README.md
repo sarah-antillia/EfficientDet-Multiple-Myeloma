@@ -32,12 +32,10 @@ If you use this dataset, please cite below publications-
  "GCTI-SN: Geometry-Inspired Chemical and Tissue Invariant Stain Normalization of Microscopic Medical Images," 
  Medical Image Analysis, vol. 65, Oct 2020. DOI: 
  (2020 IF: 11.148)
-
 2. Shiv Gehlot, Anubha Gupta and Ritu Gupta, 
  "EDNFC-Net: Convolutional Neural Network with Nested Feature Concatenation for Nuclei-Instance Segmentation,"
  ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 
  Barcelona, Spain, 2020, pp. 1389-1393.
-
 3. Anubha Gupta, Pramit Mallick, Ojaswa Sharma, Ritu Gupta, and Rahul Duggal, 
  "PCSeg: Color model driven probabilistic multiphase level set based tool for plasma cell segmentation in multiple myeloma," 
  PLoS ONE 13(12): e0207908, Dec 2018. DOI: 10.1371/journal.pone.0207908
@@ -508,12 +506,10 @@ If you use this dataset, please cite below publications-
  "GCTI-SN: Geometry-Inspired Chemical and Tissue Invariant Stain Normalization of Microscopic Medical Images," 
  Medical Image Analysis, vol. 65, Oct 2020. DOI: 
  (2020 IF: 11.148)
-
 2. Shiv Gehlot, Anubha Gupta and Ritu Gupta, 
  "EDNFC-Net: Convolutional Neural Network with Nested Feature Concatenation for Nuclei-Instance Segmentation,"
  ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 
  Barcelona, Spain, 2020, pp. 1389-1393.
-
 3. Anubha Gupta, Pramit Mallick, Ojaswa Sharma, Ritu Gupta, and Rahul Duggal, 
  "PCSeg: Color model driven probabilistic multiphase level set based tool for plasma cell segmentation in multiple myeloma," 
  PLoS ONE 13(12): e0207908, Dec 2018. DOI: 10.1371/journal.pone.0207908
@@ -521,7 +517,6 @@ If you use this dataset, please cite below publications-
 License
 CC BY-NC-SA 4.0
 </pre>
-
 
 <b>2. Deep Learning Based Approach For MultipleMyeloma Detection</b><br>
 Vyshnav M T, Sowmya V, Gopalakrishnan E A, Sajith Variyar V V, Vijay Krishna Menon, Soman K P<br>
