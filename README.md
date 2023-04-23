@@ -372,14 +372,17 @@ python ../../SavedModelCreator.py ^
 </table>
 
 <br>
-<br>
+
 <h3>
 7. Inference Multiple-Myeloma by using the saved_model
 </h3>
-we have created <b>mini-test</b>b> dataset from the original test dataset in TCIA_SegPC_dataset by using
+We have created <b>mini-test</b> dataset from the original test dataset in TCIA_SegPC_dataset by using
 the Python script.<br>
 
 <a href="./projects/Multiple-Myeloma/create_mini_test_dataset.py">create_mini_test_dataset.py</a>
+<br>
+This scripts will simply select ten image files from the original <b>x</b> folder in test dataset,
+and copy them to <b>mini_test</b> folder with the original image size (2560x1920) and image format (bmp).<br> 
 <br>
 
 <h3>7.1 Inference scripts</h3>
