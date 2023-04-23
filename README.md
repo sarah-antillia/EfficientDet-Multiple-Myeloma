@@ -535,13 +535,23 @@ License
 CC BY-NC-SA 4.0
 </pre>
 
-<b>2. Deep Learning Based Approach For MultipleMyeloma Detection</b><br>
+<b>2. SegPC-2021: A challenge & dataset on segmentation of Multiple Myeloma plasma cells from microscopic images</b><br>
+Anubha Gupta, Shiv Gehlot, Shubham Goswami, Sachin Motwani, Ritu Gupta, Álvaro García Faura, <br>
+Dejan Štepec, Tomaž Martinčič, Reza Azad, Dorit Merhof, Afshin Bozorgpour, Babak Azad,<br>
+Alaa Sulaiman, Deepanshu Pandey, Pradyumna Gupta, Sumit Bhattacharya, Aman Sinha, <br>
+Rohit Agarwal, Xinyun Qiu, Yucheng Zhang, Jaehyung Ye <br>
+<br>
+<pre>
+https://www.sciencedirect.com/science/article/abs/pii/S136184152200305X
+</pre>
+
+<b>3. Deep Learning Based Approach For MultipleMyeloma Detection</b><br>
 Vyshnav M T, Sowmya V, Gopalakrishnan E A, Sajith Variyar V V, Vijay Krishna Menon, Soman K P<br>
 <pre>
 https://www.researchgate.net/publication/346238471_Deep_Learning_Based_Approach_for_Multiple_Myeloma_Detection
 </pre>
 
-<b>3. Instance Segmentation of Multiple Myeloma Cells Using Deep-Wise Data Augmentation and Mask R-CNN</b><br>
+<b>4. Instance Segmentation of Multiple Myeloma Cells Using Deep-Wise Data Augmentation and Mask R-CNN</b><br>
 May Phu Paing, Adna Sento, Toan Huy Bui, and Chuchart Pintavirooj
 <br>
 <pre>
