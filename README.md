@@ -116,7 +116,7 @@ Please run the following command to install python packages for this project.<br
 1, Create YOLO annotation
 </h3>
  We have created <b>Multiple-Myeloma YOLO</b> annotation dataset from <b>train</b> and <b>validation</b> dataset of <b>TCIA_SegPC_dataset</b> by using the following Python script.<br>
-<a href="./projects/Multiple-Myeloma/YOLOAnnotationGenerator.py">YOLOAnnotationGenerator</a><br>
+<a href="./projects/Multiple-Myeloma/YOLOAnnotationGenerator.py">YOLOAnnotationGenerator.py</a><br>
 
 <pre>
 ./YOLO/
@@ -124,6 +124,18 @@ Please run the following command to install python packages for this project.<br
 └─valid/
 </pre>
 
+In order to create YOLO annotation, this script will do the following image processings.<br>
+<b> 1 Resize image size</b><br>
+ The bmp image size in the original dataset is 2560x1920 in pixel, which is too big to use 
+as the train and valid image dataset for our EfficientDet model. Therefore we have resized
+all images in x and y folders in those dataset to be 512x512.
+<br>  
+<b> 2 Compute bounding boxes</b><br>
+ We have computed the bounding boxes from the instance segmentations of the resized image in y folder 
+in train and valid dataset.<br>
+<b> 3 Create YOLO annotation</b><br>
+ We have created YOLO annotation files from the bounding boxes.<br>
+<br>
 <h3>
 2. Convert YOLO to TFRecord
 </h3>
