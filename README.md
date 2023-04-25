@@ -113,7 +113,7 @@ Please run the following command to install python packages for this project.<br
 <br>
 <h3>2.3 Create TFRecord dataset</h3>
 <h3>
-1, Create YOLO annotation
+1. Create YOLO annotation
 </h3>
  We have created <b>Multiple-Myeloma YOLO</b> annotation dataset from <b>train</b> and <b>validation</b> dataset of <b>TCIA_SegPC_dataset</b> by using the following Python script.<br>
 <a href="./projects/Multiple-Myeloma/YOLOAnnotationGenerator.py">YOLOAnnotationGenerator.py</a><br>
@@ -381,7 +381,7 @@ the Python script.<br>
 
 <a href="./projects/Multiple-Myeloma/create_mini_test_dataset.py">create_mini_test_dataset.py</a>
 <br>
-This scripts will simply select ten image files randomly from the original <b>x</b> folder in <b>test</b> dataset,
+This script will simply select ten image files randomly from the original <b>x</b> folder in <b>test</b> dataset,
 and copy them to <b>mini_test</b> folder with the original image size (2560x1920) and image format (bmp).<br> 
 <br>
 
