@@ -444,8 +444,10 @@ python ../../SavedModelInferencer.py ^
 <td>--output_image_dir</td><td>./mini-test_outputs</td>
 </tr>
 </table>
-
 <br>
+We cannot compute Average-Precision scores on this evaluation process for images in <b>mini_test</b> folder, 
+because that we have no <b>annotation.json</b> file specified by parameter <b>--ground_truth_json</b>,
+ 
 
 <br>
 <h3>
