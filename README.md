@@ -385,7 +385,7 @@ This script will simply select ten image files randomly from the original <b>x</
 and copy them to <b>mini_test</b> folder with the original image size (2560x1920) and image format (bmp).<br> 
 <br>
 
-<h3>7.1 Inference scripts</h3>
+<h3>7.1 Inference script</h3>
  Please run the following bat file to infer Multiple-Myeloma of <b>mini_test</b> dataset:
 <pre>
 3_inference.bat
